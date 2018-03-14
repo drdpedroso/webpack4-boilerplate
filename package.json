@@ -12,6 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/drdpedroso/webpack4-boilerplate.git"
   },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "/tools/",
+      "/dist/"
+    ]
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
